@@ -1,0 +1,40 @@
+In the vm10, 
+Checked pattern: DELET
+Grep matched lines: 26437, the result is the same.
+
+In the vm5, 
+Checked pattern: DELET
+Grep matched lines: 27293, the result is the same.
+
+In the vm4, 
+Checked pattern: DELET
+Grep matched lines: 27144, the result is the same.
+
+In the vm3, 
+Checked pattern: DELET
+Grep matched lines: 26854, the result is the same.
+
+In the vm9, 
+Checked pattern: DELET
+Grep matched lines: 26898, the result is the same.
+
+In the vm6, 
+Checked pattern: DELET
+Grep matched lines: 26846, the result is the same.
+
+In the vm2, 
+Checked pattern: DELET
+Grep matched lines: 26754, the result is the same.
+
+In the vm7, 
+Checked pattern: DELET
+Grep matched lines: 27031, the result is the same.
+
+In the vm8, 
+Checked pattern: DELET
+Grep matched lines: 27294, the result is the same.
+
+In the vm1, 
+Checked pattern: DELET
+Grep matched lines: 27976, the result is the same.
+
